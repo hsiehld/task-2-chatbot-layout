@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Noto+Sans+TC:wght@400;700&family=Wendy+One&display=swap");
+
+*,
+*::after,
+*::before {
+  /* outline: 1px solid #000; */
+  box-sizing: border-box;
+
+  /* font-family: 'Comfortaa', cursive;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Wendy One', sans-serif; */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:any-link {
+  color: inherit;
+}
+
+body {
+  font-size: 16px;
+  font-family: "PingFang TC", sans-serif;
+}
